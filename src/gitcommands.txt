@@ -1,0 +1,6 @@
+1. git clone -> This pull someone's repo
+2. git init -> initializes the repository (We are asking git to manage the folder)
+3. git add .
+3. git commit -m 'Intializing' -> Save
+4. git push origin master -> Push to Github/Bitbucket. But we are using github
+5. git add remote <your-git-branch>

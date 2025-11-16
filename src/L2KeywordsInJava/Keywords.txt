@@ -1,0 +1,17 @@
+There are total 32 Keywords in Java
+
+Access Modifiers
+1. private
+2. public
+3. protected
+
+
+Data Types
+1. Integer
+2. Long
+3. Double
+
+Data Structures
+1. List -> ArrayList, LinkedList
+2. Map -> HashMap, TreeMap
+3.
