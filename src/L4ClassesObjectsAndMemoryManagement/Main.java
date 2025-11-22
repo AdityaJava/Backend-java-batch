@@ -1,7 +1,5 @@
 package L4ClassesObjectsAndMemoryManagement;
 
-import L3WhatAreClassesinJava.Person;
-
 /**
  * 1. Heap Memory (RAM 3GB goes for HEAP memory of JVM) -> Memory out of bound for heap memory
  * 2. Stack Memory
@@ -10,9 +8,10 @@ import L3WhatAreClassesinJava.Person;
  */
 
 
-class person {
+class Person {
     int height;
     int weight;
+
 
     //Methods are actions performed by the class
     public void eat() {

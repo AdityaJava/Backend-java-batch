@@ -9,7 +9,8 @@ Access Modifiers
 Data Types
 1. Integer
 2. Long
-3. Double
+3. float
+4. Double
 
 Data Structures
 1. List -> ArrayList, LinkedList
