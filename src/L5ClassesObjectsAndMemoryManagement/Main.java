@@ -1,4 +1,4 @@
-package L4ClassesObjectsAndMemoryManagement;
+package L5ClassesObjectsAndMemoryManagement;
 
 /**
  * 1. Heap Memory (RAM 3GB goes for HEAP memory of JVM) -> Memory out of bound for heap memory

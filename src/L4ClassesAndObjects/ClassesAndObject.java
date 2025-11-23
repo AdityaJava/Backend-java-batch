@@ -1,4 +1,4 @@
-package L5ClassesAndObjects;
+package L4ClassesAndObjects;
 
 /**
  * Note1: Syntax for creating methods in Java
@@ -15,7 +15,7 @@ package L5ClassesAndObjects;
 
 /**
  * Note3:
- * 1. JVM gives default constructor if you have not defined constructor;
+ * 1. JVM gives default constructor if you have not defined any constructor;
  */
 
 class Person {
@@ -26,6 +26,7 @@ class Person {
     String name;
 
     //Methods
+    // This is method definition
     public void eat() {
         System.out.println("Person is Eating");
     }
@@ -59,10 +60,12 @@ public class ClassesAndObject {
     public static void main(String[] args) {
         // p is reference name
         Person p = new Person();
+
+        //You are telling JVM to execute your method. This is known as method call
         p.eat();
         String s = p.praveen();
         System.out.println(s);
-        int o = p.calculate(1,2);
+        int o = p.calculate(1, 2);
         System.out.println(o);
     }
 }

@@ -11,6 +11,8 @@ Data Types
 2. Long
 3. float
 4. Double
+5. String
+
 
 Data Structures
 1. List -> ArrayList, LinkedList
